@@ -1,0 +1,12 @@
+C:\Users\schwa\Documents\GitHub\SavayleeMobs\LethalCompanyTemplate\bin\Debug\netstandard2.1\LethalCompanyTemplate.deps.json
+C:\Users\schwa\Documents\GitHub\SavayleeMobs\LethalCompanyTemplate\bin\Debug\netstandard2.1\LethalCompanyTemplate.dll
+C:\Users\schwa\Documents\GitHub\SavayleeMobs\LethalCompanyTemplate\bin\Debug\netstandard2.1\LethalCompanyTemplate.pdb
+C:\Users\schwa\Documents\GitHub\SavayleeMobs\LethalCompanyTemplate\obj\Debug\netstandard2.1\SavayleeMobs.csproj.AssemblyReference.cache
+C:\Users\schwa\Documents\GitHub\SavayleeMobs\LethalCompanyTemplate\obj\Debug\netstandard2.1\PluginInfo.cs
+C:\Users\schwa\Documents\GitHub\SavayleeMobs\LethalCompanyTemplate\obj\Debug\netstandard2.1\SavayleeMobs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schwa\Documents\GitHub\SavayleeMobs\LethalCompanyTemplate\obj\Debug\netstandard2.1\SavayleeMobs.AssemblyInfoInputs.cache
+C:\Users\schwa\Documents\GitHub\SavayleeMobs\LethalCompanyTemplate\obj\Debug\netstandard2.1\SavayleeMobs.AssemblyInfo.cs
+C:\Users\schwa\Documents\GitHub\SavayleeMobs\LethalCompanyTemplate\obj\Debug\netstandard2.1\SavayleeMobs.csproj.CoreCompileInputs.cache
+C:\Users\schwa\Documents\GitHub\SavayleeMobs\LethalCompanyTemplate\obj\Debug\netstandard2.1\SavayleeMobs.sourcelink.json
+C:\Users\schwa\Documents\GitHub\SavayleeMobs\LethalCompanyTemplate\obj\Debug\netstandard2.1\LethalCompanyTemplate.dll
+C:\Users\schwa\Documents\GitHub\SavayleeMobs\LethalCompanyTemplate\obj\Debug\netstandard2.1\LethalCompanyTemplate.pdb
